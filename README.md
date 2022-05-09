@@ -1,5 +1,6 @@
-# Estagio-Syngenta-Digital-2022 
+# Estagio-Syngenta-Digital-2022 🌱
 Projeto criado para apresentar uma solução frente ao problema proposto no Programa De Estágio Syngenta Digital 2022.
 
-<h1>Código elaborado a partir do seguinte diagrama de classes:<h1>
+ClassDiagram used in project:
+
 
